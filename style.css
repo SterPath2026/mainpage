@@ -1,0 +1,28 @@
+body {
+background-color: #0F2D44;
+color: #C9CED3;
+font-family: Arial, sans-serif;
+text-align: center;
+padding-top: 100px;
+}
+
+.logo {
+width: 320px;
+margin-bottom: 40px;
+}
+
+h1 {
+font-size: 42px;
+margin-bottom: 10px;
+}
+
+h2 {
+font-weight: normal;
+margin-bottom: 30px;
+}
+
+p {
+max-width: 600px;
+margin: 0 auto 20px auto;
+line-height: 1.6;
+}
