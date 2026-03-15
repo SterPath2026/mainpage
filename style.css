@@ -3,12 +3,13 @@ background-color: #0F2D44;
 color: #C9CED3;
 font-family: Arial, sans-serif;
 text-align: center;
-padding-top: 100px;
+padding-top: 60px;
 }
 
 .logo {
-width: 600px;
-margin-bottom: 40px;
+width: 550px;
+display: block;
+margin: 0 auto 40px auto;
 }
 
 h1 {
@@ -25,4 +26,13 @@ p {
 max-width: 600px;
 margin: 0 auto 20px auto;
 line-height: 1.6;
+}
+
+a {
+color: #C9CED3;
+text-decoration: none;
+}
+
+a:hover {
+text-decoration: underline;
 }
