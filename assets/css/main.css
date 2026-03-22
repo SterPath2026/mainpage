@@ -2210,6 +2210,24 @@ button,
 	object-fit: contain;
   }
 
+  /* Fix mobile spacing for vertical banner */
+  @media screen and (orientation: portrait) {
+  #banner.banner-vertical {
+    flex-direction: column; /* override column-reverse */
+  }
+
+  #banner.banner-vertical .image {
+    height: auto !important;
+    min-height: 0 !important;
+    margin: 0 0 1.5em 0 !important;
+  }
+
+  #banner.banner-vertical .image img {
+    height: auto !important;
+    object-fit: contain !important;
+  }
+  }
+  
 /* Footer */
 #footer .copyright {
   color: #9fa3a6;
