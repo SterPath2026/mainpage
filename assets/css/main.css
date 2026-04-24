@@ -1831,6 +1831,10 @@ button,
           .posts article:last-child:after {
             display: none; } }
 
+
+
+
+
 /* Wrapper */
 #wrapper {
   display: -moz-flex;
@@ -2227,7 +2231,7 @@ button,
     object-fit: contain !important;
   }
   }
-  
+
 /* Footer */
 #footer .copyright {
   color: #9fa3a6;
@@ -2314,3 +2318,66 @@ button,
     border-top: 0;
     margin-top: 0;
     padding-top: 0; }
+
+
+    .post-category {
+	font-size: 0.8em;
+	font-weight: 700;
+	text-transform: uppercase;
+	letter-spacing: 0.05em;
+	color: #1f3a5f;
+	margin-bottom: 0.4em;
+}
+
+.post-tags {
+	font-size: 0.85em;
+	color: #777;
+	margin-bottom: 0.8em;
+}
+
+/* Title slightly smaller */
+article h2 {
+	font-size: 1.6em;
+}
+
+/* Date → grey */
+.post-date {
+	color: #777;
+	font-size: 0.9em;
+	margin-bottom: 0.6em;
+}
+
+/* Body text → darker */
+article p {
+	color: #444;
+}
+
+.post-tags {
+	margin: 0.25em 0 1.25em 0;
+}
+
+.post-tag {
+	display: inline-block;
+	font-size: 0.78em;
+	color: #1f3a5f;
+	border: 1px solid #d0d7de;
+	border-radius: 999px;
+	padding: 0.15em 0.7em;
+	margin: 0 0.35em 0.35em 0;
+	background: #f7f9fb;
+}
+
+/* Button look modification (override previous style) */
+.button {
+	background-color: #1f3a5f;
+	color: #ffffff !important;
+	border-color: #1f3a5f;
+	font-weight: 600;
+}
+
+.button:hover {
+	background-color: #2c4d73;
+	border-color: #2c4d73;
+	color: #ffffff !important;
+}
+
