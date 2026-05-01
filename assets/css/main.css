@@ -2381,3 +2381,125 @@ article p {
 	color: #ffffff !important;
 }
 
+/* Services page styling */
+.services-section > p {
+	color: #444;
+	font-size: 1.15em;
+	line-height: 1.65;
+	margin-bottom: 2em;
+}
+
+.services-list {
+	list-style: disc;
+	margin: 0 0 2.5em 0;
+	padding-left: 1.25em;
+}
+
+.services-list li {
+	padding-left: 0.5em;
+	margin-bottom: 1.35em;
+	color: #444;
+}
+
+.services-list li strong {
+	display: block;
+	color: #3d4449;
+	font-size: 1.15em;
+	font-weight: 600;
+	line-height: 1.5;
+	margin-bottom: 0.25em;
+}
+
+.services-list li p {
+	color: #444;
+	font-size: 1em;
+	line-height: 1.65;
+	margin: 0;
+}
+
+/* About page founder section */
+
+.founder-section {
+	display: flex;
+	gap: 3em;
+	align-items: flex-start;
+}
+
+.founder-content {
+	flex: 1;
+	min-width: 0;
+}
+
+.founder-photo {
+	flex: 0 0 24%;
+	max-width: 260px;
+}
+
+.founder-photo img {
+	width: 100%;
+	height: auto;
+	display: block;
+	border-radius: 0.375em;
+}
+
+@media screen and (max-width: 980px) {
+	.founder-section {
+		flex-direction: column;
+		gap: 2em;
+	}
+
+	.founder-photo {
+		max-width: 280px;
+	}
+}
+
+/* About page body text */
+
+.about-page p,
+.about-page li {
+	font-size: 1.1em;
+	line-height: 1.75;
+}
+
+/* About page selected background subsection */
+
+.selected-background {
+	margin-top: 2.25em;
+}
+
+.selected-background h3 {
+	margin-bottom: 0.9em;
+	font-size: 1.15em;
+}
+
+.selected-background ul {
+	margin-bottom: 0;
+}
+
+/* About page call-to-action */
+
+.about-cta {
+	margin-top: 1.5em;
+	padding-top: 0;
+}
+
+.about-cta p {
+	max-width: 52em;
+	margin-bottom: 1.25em;
+}
+
+/* About page profile links */
+
+.profile-links {
+	margin-top: 1.5em;
+}
+
+.profile-links p {
+	font-size: 1em;
+	margin-bottom: 0;
+}
+
+.profile-links span {
+	margin: 0 0.5em;
+	color: #aaa;
+}
