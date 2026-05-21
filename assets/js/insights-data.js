@@ -1,6 +1,27 @@
 const insightsPosts = [
 
 
+{
+    date: "Post date: 05-20-2026",
+    category: "Vaccine update",
+    tags: ["Vaccines", "mRNA", "Adjuvants", "Respiratory Vaccines"],
+    title: "Vaccine updates May 2026",
+    summary: `
+    <p> Recent vaccine updates over the past two weeks highlight continued movement across respiratory vaccines, adjuvant platforms, and RNA vaccine strategy. </p>
+    
+    <p> GSK received expanded approval in Japan for Arexvy in adults aged 18–49 who are at increased risk of RSV disease, reinforcing the role of recombinant protein vaccines with established adjuvant systems in adult respiratory disease prevention. </p>
+
+    <p> Novavax also continued to position Matrix-M as a broader platform asset, citing its Pfizer licensing agreement and multiple material transfer agreements with large pharmaceutical and biotechnology partners. This suggests that clinically validated adjuvant systems may become increasingly important as partnerable technologies, not only as components of single-company vaccine products. </p>
+
+    <p> BioNTech reported lower COVID-19 vaccine revenue and announced plans to consolidate parts of its manufacturing network while redirecting capital toward oncology. This reflects a broader post-pandemic shift in mRNA vaccine strategy, where companies are moving from emergency-scale capacity toward more selective, product-specific investment. Arcturus, CSL, and Meiji remain active in self-amplifying mRNA COVID-19 vaccine commercialization in Japan through KOSTAIVE, providing an important real-world example of sa-mRNA vaccine deployment. </p>
+
+    <p> Additional updates included Brazilian authorization for Instituto Butantan to locally manufacture a version of Valneva’s chikungunya vaccine, highlighting the strategic importance of regional manufacturing for outbreak-relevant vaccines. Recent publications also continue to support interest in self-amplifying mRNA durability and mucosal vaccine delivery tools, although broad clinical validation for mucosal platforms remains limited. </p>
+
+    <p> References: <a href="https://www.gsk.com/en-gb/media/press-releases/gsk-s-rsv-vaccine-arexvy-receives-expanded-approval-in-japan-for-adults-aged-18-59-at-increased-risk/">GSK</a>; <a href="https://ir.novavax.com/press-releases/2026-05-06-Novavax-Reports-First-Quarter-2026-Financial-Results-and-Operational-Highlights">Novavax</a>; <a href="https://investors.biontech.de/news-releases/news-release-details/biontech-announces-first-quarter-2026-financial-results-and">BioNTech</a>; <a href="https://ir.arcturusrx.com/node/13626/pdf">Arcturus</a>; <a href="https://valneva.com/wp-content/uploads/2026/05/2026_05_13_Q1_Results_PR_EN_Final.pdf">Valneva</a> </p>
+    `,
+    link: "insights.html#post-vaccine-update-may-2026"
+},
+        
         {
     date: "Post date: 04-23-2026",
     category: " Therapeutics update ",
