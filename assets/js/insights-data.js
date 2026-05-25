@@ -1,5 +1,49 @@
 const insightsPosts = [
 
+    {
+    date: "Post date: 05-25-2026",
+    category: " Therapeutics update ",
+    tags: ["Therapeutics", "ADC", "Gene Editing", "Radioligand Therapy", "Obesity"],
+    title: "Therapeutics update May 2026 ",
+    summary: `
+    <p>
+    Over the past month, several therapeutics developments reinforced a broader industry pattern: capital continues to concentrate around platforms that combine strong clinical differentiation with credible development, regulatory, and manufacturing paths.
+    </p>
+
+    <p>
+    In oncology, Gilead completed its acquisition of Tubulis for $3.15 billion upfront, with up to $1.85 billion in potential milestone payments. Tubulis brings antibody-drug conjugate (ADC) assets and linker-payload technology, including TUB-040, a NaPi2b-targeting ADC in clinical development. The transaction reinforces continued strategic interest in next-generation ADC platforms, where differentiation increasingly depends on payload design, linker chemistry, therapeutic index, and manufacturability rather than target selection alone.
+    </p>
+
+    <p>
+    In genetic medicines, Intellia reported positive Phase 3 results for lonvoguran ziclumeran (lonvo-z) in hereditary angioedema and initiated a rolling Biologics License Application submission to FDA. Lonvo-z is an in vivo CRISPR/Cas9 gene-editing therapy delivered using lipid nanoparticles, designed as a one-time treatment to reduce kallikrein production by editing the KLKB1 gene in the liver. This is a major platform signal because it moves in vivo gene editing closer to becoming a regulated therapeutic product class, not just an experimental concept.
+    </p>
+
+    <p>
+    FDA also approved Bizengri for adults with advanced, unresectable or metastatic NRG1 fusion-positive cholangiocarcinoma after prior systemic therapy. The approval is notable because it applies to an ultra-rare, molecularly defined oncology population and was granted under the Commissioner’s National Priority Voucher pilot program. This reinforces continued regulatory flexibility in high-unmet-need precision oncology, especially where patient populations are too small for conventional large randomized development programs.
+    </p>
+
+    <p>
+    Manufacturing: Novartis broke ground on a radioligand therapy manufacturing site in Denton, Texas, expanding its U.S. RLT network. Radioligand therapies require specialized manufacturing, quality release, isotope handling, and time-sensitive distribution. As these therapies move toward broader oncology use, manufacturing footprint and supply-chain execution may become key competitive advantages.
+    </p>
+
+    <p>
+    In obesity and metabolic disease, Lilly reported Phase 3 results for retatrutide, a triple agonist targeting GIP, GLP-1, and glucagon receptors. In the TRIUMPH-1 trial, the highest dose achieved 28.3% mean weight loss at 80 weeks, with 45.3% of participants achieving at least 30% weight loss. These data suggest that obesity competition is shifting from whether incretin-based therapies work to how far efficacy, durability, dosing, tolerability, access, and manufacturing scale can be pushed.
+    </p>
+
+
+    <p>
+    References:
+    <a href="https://investors.gilead.com/news/news-details/2026/Gilead-Sciences-Completes-Acquisition-of-Tubulis-Further-Strengthening-Oncology-Portfolio/default.aspx">Gilead</a>;
+    <a href="https://ir.intelliatx.com/news-releases/news-release-details/intellia-therapeutics-reports-positive-phase-3-results">Intellia Phase 3 results</a>;
+    <a href="https://ir.intelliatx.com/news-releases/news-release-details/intellia-therapeutics-initiates-rolling-submission-biologics">Intellia BLA submission</a>;
+    <a href="https://www.fda.gov/news-events/press-announcements/fda-grants-seventh-approval-under-national-priority-voucher-pilot-program">FDA</a>;
+    <a href="https://www.novartis.com/news/media-releases/novartis-breaks-ground-denton-texas-radioligand-therapy-site-construction-now-underway-across-all-new-us-facilities">Novartis</a>;
+    <a href="https://investor.lilly.com/news-releases/news-release-details/lillys-triple-agonist-retatrutide-delivered-powerful-weight-loss">Lilly</a>
+    </p>
+    `,
+    link: "insights.html#post-therapeutics-update-2026-05-25"
+},
+
 
 {
     date: "Post date: 05-20-2026",
