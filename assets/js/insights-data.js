@@ -1,25 +1,25 @@
 const insightsPosts = [
 
-{
-date: "Post date: 07-14-2026",
-category: " Vaccine update ",
-tags: ["Vaccines", "mRNA", "Conjugate Vaccines", "Manufacturing", "Outbreak Preparedness"],
-title: "Vaccine updates highlight mRNA influenza validation, high-valency conjugates, and localized manufacturing",
-summary: ` <p> Vaccine developments through the end of June highlighted progress across mRNA influenza, high-valency conjugate vaccines, multivalent pediatric vaccines, and outbreak-response manufacturing. Moderna’s seasonal influenza candidate, mRNA-1010, received unanimous support from an FDA advisory committee, which concluded that its benefit-risk profile was favorable in adults aged 50 years and older. If approved, the vaccine could establish an important non-COVID regulatory precedent for routine seasonal use of the mRNA-LNP platform. Moderna also aligned its research, manufacturing, and commercial leadership around planned launches of influenza, influenza-COVID combination, and norovirus vaccines in 2027–2028. </p>
-
-```
-<p> Merck received FDA approval to expand CAPVAXIVE, its 21-valent pneumococcal conjugate vaccine, to children and adolescents aged 2–17 who are at increased risk of pneumococcal disease following a primary pediatric conjugate vaccine series. The expansion reinforces the continuing competitive value of high-valency conjugate platforms, particularly where broader serotype coverage can address disease not covered by vaccines designed primarily for routine pediatric immunization. </p>
-
-<p> Sinovac initiated Phase III development of HFMD4, a quadrivalent vaccine targeting four enteroviruses associated with hand, foot, and mouth disease. The company also entered an agreement with GENNVAX to establish localized production of influenza and Sabin-strain inactivated polio vaccines in Egypt. Together, these developments illustrate how multivalent vaccine development and product-specific regional manufacturing are becoming important sources of differentiation outside established Western respiratory vaccine markets. </p>
-
-<p> Outbreak preparedness also attracted renewed investment. CEPI advanced parallel Bundibugyo ebolavirus vaccine programs from IAVI, Moderna, and the University of Oxford, with Serum Institute of India designated as the manufacturing partner for the Oxford candidate. CEPI has committed over $60 million to Bundibugyo vaccine development, and the U.S. Department of State has provided an additional $50 million in direct support to CEPI — bringing combined CEPI‑directed funding to more than $110 million. The portfolio approach is intended to move multiple candidates toward emergency-use readiness. Separately, the FDA selected a monovalent XFG antigen for the 2026–2027 U.S. COVID-19 vaccine formula, while HHS initiated termination of the remaining COVID-19 emergency-use declarations. These actions shift competitive emphasis from rapid pandemic authorization toward conventional licensure, reliable seasonal strain updates, and commercial manufacturing execution. </p>
-
-<p> References: <a href="https://www.fda.gov/advisory-committees/advisory-committee-calendar/vaccines-and-related-biological-products-advisory-committee-june-18-2026-meeting-announcement">FDA</a>; <a href="https://moderna2022rd.q4web.com/news/news-details/2026/Moderna-Announces-Organizational-Changes-to-Prepare-for-Multiple-Product-Launches-in-2027-and-2028/default.aspx">Moderna</a>; <a href="https://www.merck.com/news/u-s-fda-approves-an-additional-indication-for-capvaxive-pneumococcal-21-valent-conjugate-vaccine-in-children-and-adolescents-aged-2-through-17-at-increased-risk-for-pneumococcal-disease/">Merck</a>; <a href="https://www.sinovac.com/en-us/news/SINOVAC_Reports_Unaudited_and_Unreviewed_Second_Half_of_2025_Financial_Results_and_Files_2025_Annual_Report_on_Form_20-F">Sinovac pipeline update</a>; <a href="https://www.sinovac.com/en-us/news/SINOVAC_Expands_Egypt_Partnership_with_Localized_Influenza_and_sIPV_Vaccine_Production">Sinovac manufacturing update</a>; <a href="https://cepi.net/cepi-fast-tracks-three-bundibugyo-ebolavirus-vaccine-candidates">CEPI</a>; <a href="https://www.fda.gov/vaccines-blood-biologics/industry-biologics/covid-19-vaccines-2026-2027-formula-use-united-states-beginning-fall-2026">FDA COVID-19 formula update</a>; <a href="https://www.hhs.gov/press-room/hhs-ends-covid-19-emergency-use-authorizations.html">HHS</a> </p>
-`,
-link: "insights.html#post-vaccine-update-may-june-2026"
-```
-
-},
+    {
+    date: "Post date: 07-14-2026",
+    category: " Vaccine update ",
+    tags: ["Vaccines", "mRNA", "Conjugate Vaccines", "Manufacturing", "Outbreak Preparedness"],
+    title: "Vaccine updates June 2026",
+    summary: ` <p> Vaccine developments through the end of June highlighted progress across mRNA influenza, high-valency conjugate vaccines, multivalent pediatric vaccines, and outbreak-response manufacturing. Moderna’s seasonal influenza candidate, mRNA-1010, received unanimous support from an FDA advisory committee, which concluded that its benefit-risk profile was favorable in adults aged 50 years and older. If approved, the vaccine could establish an important non-COVID regulatory precedent for routine seasonal use of the mRNA-LNP platform. Moderna also aligned its research, manufacturing, and commercial leadership around planned launches of influenza, influenza-COVID combination, and norovirus vaccines in 2027–2028. </p>
+    
+    ```
+    <p> Merck received FDA approval to expand CAPVAXIVE, its 21-valent pneumococcal conjugate vaccine, to children and adolescents aged 2–17 who are at increased risk of pneumococcal disease following a primary pediatric conjugate vaccine series. The expansion reinforces the continuing competitive value of high-valency conjugate platforms, particularly where broader serotype coverage can address disease not covered by vaccines designed primarily for routine pediatric immunization. </p>
+    
+    <p> Sinovac initiated Phase III development of HFMD4, a quadrivalent vaccine targeting four enteroviruses associated with hand, foot, and mouth disease. The company also entered an agreement with GENNVAX to establish localized production of influenza and Sabin-strain inactivated polio vaccines in Egypt. Together, these developments illustrate how multivalent vaccine development and product-specific regional manufacturing are becoming important sources of differentiation outside established Western respiratory vaccine markets. </p>
+    
+    <p> Outbreak preparedness also attracted renewed investment. CEPI advanced parallel Bundibugyo ebolavirus vaccine programs from IAVI, Moderna, and the University of Oxford, with Serum Institute of India designated as the manufacturing partner for the Oxford candidate. CEPI has committed over $60 million to Bundibugyo vaccine development, and the U.S. Department of State has provided an additional $50 million in direct support to CEPI — bringing combined CEPI‑directed funding to more than $110 million. The portfolio approach is intended to move multiple candidates toward emergency-use readiness. Separately, the FDA selected a monovalent XFG antigen for the 2026–2027 U.S. COVID-19 vaccine formula, while HHS initiated termination of the remaining COVID-19 emergency-use declarations. These actions shift competitive emphasis from rapid pandemic authorization toward conventional licensure, reliable seasonal strain updates, and commercial manufacturing execution. </p>
+    
+    <p> References: <a href="https://www.fda.gov/advisory-committees/advisory-committee-calendar/vaccines-and-related-biological-products-advisory-committee-june-18-2026-meeting-announcement">FDA</a>; <a href="https://moderna2022rd.q4web.com/news/news-details/2026/Moderna-Announces-Organizational-Changes-to-Prepare-for-Multiple-Product-Launches-in-2027-and-2028/default.aspx">Moderna</a>; <a href="https://www.merck.com/news/u-s-fda-approves-an-additional-indication-for-capvaxive-pneumococcal-21-valent-conjugate-vaccine-in-children-and-adolescents-aged-2-through-17-at-increased-risk-for-pneumococcal-disease/">Merck</a>; <a href="https://www.sinovac.com/en-us/news/SINOVAC_Reports_Unaudited_and_Unreviewed_Second_Half_of_2025_Financial_Results_and_Files_2025_Annual_Report_on_Form_20-F">Sinovac pipeline update</a>; <a href="https://www.sinovac.com/en-us/news/SINOVAC_Expands_Egypt_Partnership_with_Localized_Influenza_and_sIPV_Vaccine_Production">Sinovac manufacturing update</a>; <a href="https://cepi.net/cepi-fast-tracks-three-bundibugyo-ebolavirus-vaccine-candidates">CEPI</a>; <a href="https://www.fda.gov/vaccines-blood-biologics/industry-biologics/covid-19-vaccines-2026-2027-formula-use-united-states-beginning-fall-2026">FDA COVID-19 formula update</a>; <a href="https://www.hhs.gov/press-room/hhs-ends-covid-19-emergency-use-authorizations.html">HHS</a> </p>
+    `,
+    link: "insights.html#post-vaccine-update-may-june-2026"
+    ```
+    
+    },
 
     
     {
