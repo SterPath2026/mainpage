@@ -1,6 +1,47 @@
 const insightsPosts = [
 
     {
+    date: "Post date: 07-22-2026",
+    category: " Therapeutics update ",
+    tags: ["Therapeutics", "Obesity", "Gene Editing", "Oncology", "Neurodegeneration"],
+    title: "June therapeutics update: gene editing validation, obesity competition and oncology consolidation",
+    summary: `
+    <p> June delivered an important validation for in vivo gene editing. Intellia reported positive Phase III results for lonvoguran ziclumeran, a one-time CRISPR-based treatment for hereditary angioedema. The therapy reduced monthly attacks by 87% compared with placebo, and most treated patients remained free of both attacks and preventive therapy during the six-month evaluation period. The results provide the strongest late-stage evidence to date that systemic in vivo gene editing can produce a clinically meaningful benefit and support Intellia’s planned regulatory submission. </p>
+    
+    <p> Investment in genetic medicines also continued beyond permanent DNA editing. Lilly entered a collaboration with Ascidian Therapeutics to develop RNA exon-editing therapies for inherited kidney diseases, with potential payments of up to $1.9 billion. RNA editing may offer a complementary approach to CRISPR because it can correct or replace defective RNA without permanently altering genomic DNA. The agreement indicates continued pharmaceutical interest in multiple genetic-medicine platforms rather than convergence around a single editing technology. </p>
+    
+    <p> Competition in obesity and metabolic disease broadened beyond injectable GLP-1 products. AstraZeneca advanced elecoglipron, a once-daily oral small-molecule GLP-1 receptor agonist, into Phase III development after reporting meaningful weight loss and blood-glucose reductions in Phase II studies. Novo Nordisk also reported positive Phase III results for CagriSema, its once-weekly combination of semaglutide and the amylin analogue cagrilintide. Together, these programs show that future competition will increasingly depend on oral convenience, combination efficacy, tolerability and cardiovascular or kidney outcomes rather than weight loss alone. </p>
+    
+    <p> Access to obesity medicines also began to shift. Lilly outlined coverage for Zepbound and Foundayo under the Medicare GLP-1 Bridge, which began July 1, 2026. Eligible Medicare Part D patients can obtain covered obesity treatment for $50 per month, subject to clinical eligibility and prior authorization. Although the program remains restricted, it represents a significant expansion of government-supported access and may increase both treatment volumes and pressure on manufacturers to demonstrate durable clinical and economic value. </p>
+    
+    <p> Oncology remained a major focus of capital allocation. GSK agreed to acquire Nuvalent for approximately $10.6 billion, gaining late-stage targeted therapies for genetically defined forms of lung cancer. Johnson & Johnson agreed to acquire Firefly Bio for $1 billion to add a preclinical platform that combines antibodies with targeted protein degraders, while Roche committed $700 million upfront for rights to Nurix’s brain-penetrant BTK degrader. These transactions show continued demand for differentiated oncology assets, particularly when they offer validated targets, novel mechanisms or potential advantages over established treatment platforms. </p>
+    
+    <p> June also highlighted the increasingly selective outlook for antibody-drug conjugates. The FDA approved the combination of Merck’s Keytruda and Gilead’s Trodelvy as a first-line treatment for certain patients with advanced triple-negative breast cancer, supporting broader use of ADC and immunotherapy combinations. In contrast, Pfizer’s sigvotatug vedotin failed to improve overall survival in a Phase III lung-cancer trial. The contrasting results reinforce that ADC success depends on target biology, patient selection and clinical positioning rather than platform design alone. </p>
+    
+    <p> In neurodegeneration, Lilly made two early-stage investments aimed at improving disease modification and drug delivery to the brain. The company licensed AlzeCure’s ACD680, an oral gamma-secretase modulator designed to alter amyloid-beta production, and partnered with BioArctic to apply its BrainTransporter technology to an undisclosed Lilly therapy. These programs remain preclinical, but they signal growing interest in preventing disease progression earlier and improving transport of therapeutic molecules across the blood-brain barrier. </p>
+    
+    <p> Overall, June’s activity showed capital concentrating around platforms that have either reached late-stage clinical validation or offer a credible solution to persistent development barriers. In vivo gene editing gained important clinical support, obesity competition expanded across formulations and access models, and oncology investment remained strong but increasingly selective. Neurodegeneration activity continued to move toward earlier intervention and more efficient brain delivery. </p>
+    
+    <p> References:
+    <a href="https://ir.intelliatx.com/news-releases/news-release-details/intellia-therapeutics-reports-additional-positive-phase-3">Intellia Therapeutics</a>;
+    <a href="https://www.prnewswire.com/news-releases/ascidian-and-lilly-enter-global-research-collaboration-to-develop-rna-exon-editors-for-devastating-kidney-diseases-302789294.html">Ascidian Therapeutics</a>;
+    <a href="https://www.astrazeneca.com/media-centre/press-releases/2026/elecoglipron-an-oral-small-molecule-glp-1-ra-moves-to-phase-iii-programme.html">AstraZeneca</a>;
+    <a href="https://www.prnewswire.com/news-releases/novo-nordisks-cagrisema-2-4-mg--2-4-mg-demonstrated-significant-reduction-in-hba1c-and-weight-across-multiple-studies-in-the-reimagine-program-presented-at-ada-2026--302793443.html">Novo Nordisk</a>;
+    <a href="https://investor.lilly.com/news-releases/news-release-details/what-medicare-part-d-patients-need-know-about-accessing-foundayo">Eli Lilly</a>;
+    <a href="https://www.gsk.com/en-gb/media/press-releases/gsk-enters-agreement-to-acquire-nuvalent-inc/">GSK</a>;
+    <a href="https://www.jnj.com/media-center/press-releases/johnson-johnson-to-acquire-firefly-bio-inc-to-expand-oncology-pipeline-with-novel-degrader-antibody-conjugate-platform">Johnson & Johnson</a>;
+    <a href="https://www.roche.com/media/releases/med-cor-2026-06-08">Roche</a>;
+    <a href="https://www.merck.com/news/fda-approves-keytruda-pembrolizumab-and-keytruda-qlex-pembrolizumab-and-berahyaluronidase-alfa-pmph-each-with-trodelvy-sacituzumab-govitecan-hziy-as-first-line-treatment-of/">Merck</a>;
+    <a href="https://www.pfizer.com/news/press-release/press-release-detail/pfizer-announces-topline-phase-3-results-sigvotatug-vedotin">Pfizer</a>;
+    <a href="https://www.alzecurepharma.se/en/alzecure-pharma-enters-into-a-collaboration-and-out-licensing-agreement-with-lilly-for-alzheimers-project/">AlzeCure Pharma</a>;
+    and <a href="https://www.bioarctic.com/en/bioarctic-and-lilly-sign-research-and-collaboration-agreement-combining-lilly-compound-with-bioarctics-braintransporter-technology/">BioArctic</a>.
+    </p>
+    `,
+    link: "insights.html#post-June-Therapeutics-2026"
+    },
+
+    
+    {
     date: "Post date: 07-14-2026",
     category: " Vaccine update ",
     tags: ["Vaccines", "mRNA", "Conjugate Vaccines", "Manufacturing", "Outbreak Preparedness"],
