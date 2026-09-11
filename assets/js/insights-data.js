@@ -1,6 +1,27 @@
 const insightsPosts = [
 
 {
+date: "Post date: 09-11-2026",
+category: " Vaccine update ",
+tags: ["Vaccines", "mRNA", "Influenza", "Adjuvants", "Protein Vaccines"],
+title: "Aug/Sept 2026 Vaccine Updates",
+summary: ` 
+<p> Recent vaccine developments highlight influenza as an increasingly important test of next-generation vaccine platforms. Moderna received FDA approval for mFLUSIVA, the first FDA-approved mRNA influenza vaccine, for adults aged 50 years and older. GSK also reported positive Phase II results for its seasonal influenza mRNA candidate and plans to begin Phase III development in September. Together, these developments move mRNA influenza toward direct competition with established seasonal vaccine technologies. </p>
+<p> Established platforms are also continuing to improve rather than being displaced. CSL Seqirus reported Phase III data for an MF59-adjuvanted, cell-based, higher-dose influenza vaccine, supporting a strategy that combines established adjuvant technology with cell-based antigen production and increased antigen dose. Novavax also continued its transition toward a partner-led model for its recombinant protein and Matrix-M technologies, with Sanofi assuming broader responsibility for Nuvaxovid commercialization and manufacturing transfer targeted for 2027. </p>
+<p> Outside influenza, Pfizer and Valneva reached another important milestone for their six-valent Lyme disease vaccine after the European Medicines Agency validated its marketing authorization application. The program provides an example of continued investment in multivalent recombinant vaccine approaches alongside newer RNA-based technologies. </p>
+<p> Taken together, these developments suggest that vaccine competition is becoming increasingly platform-specific rather than converging around a single technology. mRNA is expanding into seasonal influenza, but protein, adjuvant, cell-based, and multivalent vaccine platforms continue to generate meaningful clinical and regulatory progress. Future differentiation is therefore likely to depend increasingly on effectiveness, tolerability, manufacturing flexibility, and ease of seasonal updating rather than vaccine modality alone. </p>
+<p> References: 
+  <a href="https://www.fda.gov/vaccines-blood-biologics/vaccines/mflusiva">FDA – mFLUSIVA</a>; 
+  <a href="https://www.gsk.com/en-gb/media/press-releases/gsk-to-advance-mrna-seasonal-flu-vaccine-candidate-to-phase-iii-following-positive-phase-ii-data/">GSK</a>; 
+  <a href="https://newsroom.csl.com/2026-09-10-Lancet-Publication-Marks-Important-Advance-in-Influenza-Prevention-for-Older-Adults">CSL Seqirus</a>; 
+  <a href="https://ir.novavax.com/press-releases/2026-08-06-Novavax-Reports-Second-Quarter-2026-Financial-Results-and-Operational-Highlights">Novavax</a>; 
+  <a href="https://www.pfizer.com/news/press-release/press-release-detail/pfizer-and-valnevas-lyme-disease-vaccine-candidate">Pfizer/Valneva</a> 
+</p>`,
+link: "insights.html#post-vaccine-update-september-2026"
+},
+
+  
+{
   date: "Post date: 08-28-2026",
   category: "Therapeutics update ",
   tags: ["Therapeutics","Obesity","Gene Editing","Oncology","Drug Manufacturing"],
