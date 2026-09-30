@@ -1,6 +1,51 @@
 const insightsPosts = [
 
 {
+date:
+"Post date: 09-30-2026",
+
+category:
+"Therapeutics update",
+
+tags:
+["Therapeutics", "Obesity", "Gene Therapy", "Oncology", "Neurodegeneration", "Drug Manufacturing"],
+
+title:
+"August/September 2026 therapeutics update",
+
+summary: `
+
+<p>
+  Competition in obesity continued to broaden beyond currently marketed GLP-1 medicines. Novo Nordisk licensed HRS-1596, a once-weekly oral GLP-1/GIP agonist from Hengrui Pharma, in a deal worth up to $2.6 billion, and separately secured access to Nanexa's long-acting drug-delivery platform for up to five metabolic programs targeting monthly or quarterly dosing. Lilly also reported Phase II results for EloraTZP, which combines its amylin agonist eloralintide with tirzepatide. The highest-dose combination produced 23.3% average weight loss after 48 weeks in adults with obesity or overweight and type 2 diabetes, versus 14.8% with tirzepatide alone, although higher treatment discontinuation rates make tolerability an important question for the Phase III program.
+</p>
+
+<p>
+  Genetic medicines produced both important validation and a reminder of their remaining development risk. Beam Therapeutics reported durable effects for BEAM-302, its LNP-delivered in vivo base-editing therapy for alpha-1 antitrypsin deficiency, with evidence of corrected protein production maintained for up to 18 months and a pivotal cohort now underway. The FDA also granted full approval to Ultragenyx's Fayuvi, the first treatment for Sanfilippo syndrome type A and another commercial AAV gene therapy. In contrast, Novartis's Phase III HARBOR trial of del-desiran in myotonic dystrophy type 1 missed its primary endpoint, showing that advances in genetic delivery do not remove indication-specific clinical risk.
+</p>
+
+<p>
+  Oncology investment continued to concentrate around therapies that can serve as components of broader treatment combinations. AstraZeneca committed $2 billion to Summit Therapeutics and plans to evaluate Summit's PD-1/VEGF bispecific ivonescimab with AstraZeneca antibody-drug conjugates across multiple cancers. GSK separately agreed to acquire a preclinical trispecific T-cell engager for multiple myeloma from Chimagen Biosciences in a transaction worth up to $750 million. At the same time, Merck and Daiichi Sankyo withdrew their U.S. accelerated-approval application for the B7-H3 ADC ifinatamab deruxtecan after discussions with the FDA concluded that the existing Phase II package did not meet the requirements for accelerated approval.
+</p>
+
+<p>
+  RNA-targeted neurological medicines also reached two notable milestones. The FDA approved Ionis's Zanvastro as the first disease-modifying treatment for Alexander disease, an ultra-rare progressive neurological disorder. Later in September, Ionis and Otsuka reported that ulefnersen met the primary endpoint in the Phase III FUSION trial in FUS-associated ALS, improving a measure combining functional impairment and survival. Together, the developments strengthen evidence that genetically defined neurological diseases can support increasingly targeted development strategies when the underlying biology and patient population are sufficiently clear.
+</p>
+
+<p>
+  Manufacturing investment is increasingly following the modalities expected to require substantial commercial scale. Lilly broke ground on its previously announced $6.5 billion Houston manufacturing facility, which will produce active pharmaceutical ingredient for its oral GLP-1 medicine Foundayo as well as other synthetic medicines and oligonucleotides. In cell therapy, Made Scientific acquired an operational 85,000-square-foot manufacturing facility in East Norriton, Pennsylvania from National Resilience, expanding its East Coast network to 15 qualified GMP suites. The two moves illustrate different scaling models: very large dedicated infrastructure for high-volume metabolic medicines and consolidation of specialized existing capacity for complex cell therapies.
+</p>
+
+<p>
+  References: <a href="{{novo-hengrui}}">Novo Nordisk</a>; <a href="{{novo-nanexa}}">Nanexa</a>; <a href="{{lilly-eloratzp}}">Eli Lilly</a>; <a href="{{beam-302}}">Beam Therapeutics</a>; <a href="{{fayuvi}}">FDA / Ultragenyx</a>; <a href="{{novartis-harbor}}">Novartis</a>; <a href="{{astrazeneca-summit}}">AstraZeneca</a>; <a href="{{gsk-chimagen}}">GSK</a>; <a href="{{idxd-withdrawal}}">Merck</a>; <a href="{{ionis-zanvastro}}">Ionis</a>; <a href="{{ionis-fusion}}">Ionis</a>; <a href="{{lilly-houston}}">Eli Lilly</a>; <a href="{{made-scientific}}">Made Scientific</a>
+</p>
+
+`,
+
+link:
+"insights.html#post-September-2026-therapeutics-update"
+},
+  
+{
 date: "Post date: 09-11-2026",
 category: " Vaccine update ",
 tags: ["Vaccines", "mRNA", "Influenza", "Adjuvants", "Protein Vaccines"],
